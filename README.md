@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi there, I'm [Arshavir](https://arshavir777.github.io/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Arshavir](https://arshavir777.github.io/)
 ### Software Engineer from Armenia 🇦🇲
