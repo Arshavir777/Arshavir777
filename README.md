@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Arshavir777/Arshavir777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi there, I'm [Arshavir](https://arshavir777.github.io/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Software Engineer from Armenia 🇦🇲
